@@ -2,7 +2,7 @@
 
 - [x] This portfolio website has both dark and light.
 
-| <img src='https://github.com/Bilol4391/translator_portfolio_app/blob/main/assets/images/Screenshot%202023-02-03%20at%2004.01.38.png' width='500'>|<img src='https://github.com/Bilol4391/translator_portfolio_app/blob/main/assets/images/Screenshot%202023-02-03%20at%2004.01.17.png' width='500'> |
+| <img src='https://github.com/Bilol4391/online_coffee/blob/main/assets/readme/Screenshot%202023-02-03%20at%2004.11.22.png' width='500'>|<img src='https://github.com/Bilol4391/online_coffee/blob/main/assets/readme/Screenshot%202023-02-03%20at%2004.11.34.png' width='500'> |
 |:---:|--------|
 
 [//]: # (- [x] Works on all desktops, tablets and mobiles)
