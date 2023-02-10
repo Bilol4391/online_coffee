@@ -1,4 +1,4 @@
-# This is a Tranlator App.
+# This is an Online Coffee App.
 
 - [x] This portfolio website has both dark and light.
 
